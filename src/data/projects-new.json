@@ -1,0 +1,241 @@
+[{
+        "id": "project-001",
+        "title": "SnapFoo - SVG Animation Library",
+        "textOne": "SnapFoo",
+        "textTwo": "SVG Animation Library",
+        "tech": ["JavaScript", "jQuery", "Snap SVG", "Animation"],
+        "description": "SnapFoo is an open source JavaScript library I built that extends off of SnapSVG to help simplify the SVG animation process. This is the quick examples page showing the library in use.",
+        "links": {
+            "live": "http://yuschick.github.io/SnapFoo/",
+            "github": "https://github.com/yuschick/SnapFoo/",
+            "codepen": "http://codepen.io/collection/nNqYMG/",
+            "preview": "http://codepen.io/Yuschick/full/ZbzPeP/"
+        },
+        "image": "snapfoo.jpg",
+        "featured": true
+    },
+    {
+        "id": "project-002",
+        "title": "Archer SVG Animated Pirate Virus",
+        "textOne": "Archer",
+        "textTwo": "SVG Animated Pirtae Virus",
+        "tech": ["JavaScript", "jQuery", "SCSS", "Illustrator", "Snap SVG", "Animation"],
+        "description": "This SnapSVG demo was created as an example for my previous presentation on SVG Animation. I designed the Archer-themed character in Illustrator and animated it using Snap SVG, JavaScript and CSS.",
+        "links": {
+            "live": null,
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/WvEpwb",
+            "preview": "http://codepen.io/Yuschick/full/WvEpwb/"
+        },
+        "image": "archer-pirate-virus.jpg",
+        "featured": false
+    },
+    {
+        "id": "project-003",
+        "title": "IBM - Responsive Diamond Navigation",
+        "textOne": "IBM",
+        "textTwo": "Responsive Diamond Navigation",
+        "tech": ["HTML5 Video", "JavScript", "jQuery", "SCSS", "SVG", "Animation"],
+        "description": "This project took the minimalist design, added subtle CSS animation and seamless HTML5 to create a clean, responsive experience.",
+        "links": {
+            "live": "http://centerlinebeta.net/5406/",
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/NqpKyJ",
+            "preview": "http://codepen.io/Yuschick/full/NqpKyJ/"
+        },
+        "image": "responsive-diamond-navigation.jpg",
+        "featured": false
+    },
+    {
+        "id": "project-004",
+        "title": "Speake-Marin Velsheda - SVG Animated Watch",
+        "textOne": "Speake-Marin Velsheda",
+        "textTwo": "SVG Animated Watch",
+        "tech": ["JavScript", "jQuery", "SCSS", "SVG", "Animation", "Illustrator"],
+        "description": "Peter Speake-Marin is another one of my favorite watchmakers so I hopped into Illustrator to begin replicating one of his timepieces called Velsheda. This single-hand watch sets the time automatically on load and allows for manual time setting as well. All animations of the inline SVG are done using CSS and JavaScript.",
+        "links": {
+            "live": null,
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/ZYLdmQ",
+            "preview": "http://codepen.io/Yuschick/full/ZYLdmQ/"
+        },
+        "image": "speake-marin-velsheda-svg.jpg",
+        "featured": false
+    },
+    {
+        "id": "project-005",
+        "title": "Ressence T3 - SVG Animated Watch",
+        "textOne": "Ressence T3",
+        "textTwo": "SVG Animated Watch",
+        "tech": ["JavScript", "jQuery", "SCSS", "SVG", "Animation", "Illustrator"],
+        "description": "I find plenty of inspiration in watchmaking and it's obvious a favorite hobby of mine is recreating my favorite timepieces with SVG. However, the Ressence Type-3 model was a different type of challenge as it abandons the typical convention of using hands to tell the time in lieu of rotating discs suspended in an oil that are positioned using magnets. Impressive. This was one ofmy most exciting watch recreations due to its very unconventional display. Plenty of thought was put into the Illustrator design processto ensure everything rotates in unison cleanly.",
+        "links": {
+            "live": null,
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/AXxGmp",
+            "preview": "http://codepen.io/Yuschick/full/AXxGmp/"
+        },
+        "image": "ressence.jpg",
+        "featured": false
+    },
+    {
+        "id": "project-006",
+        "title": "Sarpaneva K0 Seasons - Landing Page",
+        "textOne": "Sarpaneva K0 Seasons",
+        "textTwo": "Landing Page",
+        "tech": ["JavScript", "jQuery", "SCSS", "Grunt"],
+        "description": "Talk about surreal. After creating an SVG version of his Northern Lights watch, Stepan Sarpaneva reached out to me about doing future web work for him. The was my first opportunity; a landing page promoting his latest model, the K0 Seasons.",
+        "links": {
+            "live": "http://sarpanevawatches.com/seasons/",
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/yexRvb",
+            "preview": "http://sarpanevawatches.com/seasons/"
+        },
+        "image": "sarpaneva-seasons.jpg",
+        "featured": false
+    },
+    {
+        "id": "project-007",
+        "title": "Sarpaneva Northern Lights - SVG Animated Watch",
+        "textOne": "Sarpaneva Northern Lights",
+        "textTwo": "SVG Animated Watch",
+        "tech": ["JavScript", "jQuery", "SCSS", "SVG", "Animation", "Illustrator"],
+        "description": "Stepan Sarpaneva is my favorite watchmaker so I wanted to recreate one of my favorite pieces of his - the Northern Lights. Using Illustrator, inline SVG, jQuery, and various CSS classes, I am able to set the time (automatically and manually), set the current moonphase position based on the date, as well as rotate through the color and luminescent variations.",
+        "links": {
+            "live": null,
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/gbJgde",
+            "preview": "http://codepen.io/Yuschick/full/gbJgde/"
+        },
+        "image": "sarpaneva-northern-lights.jpg",
+        "featured": true
+    },
+    {
+        "id": "project-008",
+        "title": "A. Lange & Söhne Zeitwerk - SVG Animated Watch",
+        "textOne": "A. Lange & Söhne Zeitwerk",
+        "textTwo": "SVG Animated Watch",
+        "tech": ["JavScript", "jQuery", "SCSS", "SVG", "Animation", "Illustrator"],
+        "description": "I wanted to recreate another gorgeous timepiece, this time being the A. Lange & Söhne Zeitwerk. I designed the watch in Illustrator and am animating the SVG components with jQuery and CSS. This watch includes a very unique three-dial complication to display the time. It also has its power reserve indicator at 12 o'clock. As the time ticks away the power reserve will gradually drain and can be increased by scrolling up to 'rotate' the crown and wind the movement.",
+        "links": {
+            "live": null,
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/yYeRPm/",
+            "preview": "http://codepen.io/Yuschick/full/yYeRPm/"
+        },
+        "image": "a-lange-sohne-zeitwerk.jpg",
+        "featured": false
+    },
+    {
+        "id": "project-009",
+        "title": "IBM PureSystems - PureApp Emulator",
+        "textOne": "IBM PureSystems",
+        "textTwo": "PureApp Emulator",
+        "tech": ["JavScript", "jQuery", "jQuery UI", "SCSS", "HTML5 Canvas"],
+        "description": "This interactive demo experience is self-contained and incorporates several components of CSS, JavaScript, Html5, and canvas elements. I also leveraged jQuery UI for the drag and drop functionality.",
+        "links": {
+            "live": null,
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/JdLvyj",
+            "preview": "http://codepen.io/Yuschick/full/JdLvyj/"
+        },
+        "image": "ibm-pureapp-emulator.jpg",
+        "featured": false
+    },
+    {
+        "id": "project-010",
+        "title": "31 Nights of Horror - 2015",
+        "textOne": "31 Nights of Horror",
+        "textTwo": "2015",
+        "tech": ["Haml", "JavaScript", "jQuery", "SCSS"],
+        "description": "31 nights, 35 movies spanning different eras and genres. Themed double-feature Sundays, Slasher Saturdays, Throwback Thursdays, and more - are you up for the horror challenge?",
+        "links": {
+            "live": null,
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/VvPrVp/",
+            "preview": "http://codepen.io/Yuschick/full/VvPrVp/"
+        },
+        "image": "31-nights-of-horror.jpg",
+        "featured": false
+    },
+    {
+        "id": "project-011",
+        "title": "31 Nights of Horror - 2016",
+        "textOne": "31 Nights of Horror",
+        "textTwo": "2016",
+        "tech": ["Ember", "Firebase", "JavaScript", "jQuery", "SCSS"],
+        "description": "Need recommendations for movies this October? Here is a calendar showcasing many movies that may have flown under the radar. The calendar includes movie trailers, links to IMDB and where to watch the movie online; most for free! Enjoy many of the month-long themes like Throwback Thursday, Supernatural Saturday, Masked Monday, and others!",
+        "links": {
+            "live": "http://www.danyuschick.com/31-nights-of-horror/",
+            "github": "https://github.com/yuschick/31-Nights-of-Horror-2016",
+            "codepen": null,
+            "preview": "http://www.danyuschick.com/31-nights-of-horror/"
+        },
+        "image": "31-nights-of-horror-2016.jpg",
+        "featured": true
+    },
+    {
+        "id": "project-012",
+        "title": "F.P. Journe Ten Years Anniversary Tourbillon - SVG Animated Watch",
+        "textOne": "F.P. Journe",
+        "textTwo": "SVG Animated Watch",
+        "tech": ["JavScript", "jQuery", "SCSS", "SVG", "Animation", "Illustrator"],
+        "description": "I couldn't keep myself from recreating the stunning F.P. Journe Ten Years Anniversary Tourbillon and using it as an excuse to leverage my own library, TickTock.js to handle the time keeping and animations.",
+        "links": {
+            "live": null,
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/QyoPoq/",
+            "preview": "http://codepen.io/Yuschick/full/QyoPoq/"
+        },
+        "image": "fp-journe-tourbillon.jpg",
+        "featured": false
+    },
+    {
+        "id": "project-013",
+        "title": "Flat Surface Shader",
+        "textOne": "Flat Surface Shader",
+        "textTwo": null,
+        "tech": ["JavScript", "jQuery", "CSS"],
+        "description": "Leveraging the incredible flat surface shader from Matthew Wagerfield, this demo uses simple image masks to create a low-poly earth with animated water.",
+        "links": {
+            "live": null,
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/tbiHp",
+            "preview": "http://codepen.io/Yuschick/full/tbiHp/"
+        },
+        "image": "flat-surface-shader.jpg",
+        "featured": false
+    },
+    {
+        "id": "project-014",
+        "title": "Sarpaneva K0 Daredevil - Landing Page",
+        "textOne": "Sarpaneva K0 Daredevil",
+        "textTwo": "Landing Page",
+        "tech": ["JavScript", "SCSS", "Gulp"],
+        "description": "I had the honor of doing another landing page for Stepan Sarpaneva's latest watch model, Daredevil. I was excited to revisit the code from the previous Seasons landing page to clean it up some. I incorporated some practices and conventions from SMACSS and BEM as well as focused on writing this in Vanilla JavaScript and ES6 only. I am very happy with how this turned out.",
+        "links": {
+            "live": "http://sarpanevawatches.com/daredevil/",
+            "github": null,
+            "codepen": "http://codepen.io/Yuschick/pen/OWRXwL/",
+            "preview": "http://sarpanevawatches.com/daredevil/"
+        },
+        "image": "daredevil.jpg",
+        "featured": false
+    },
+    {
+        "id": "project-015",
+        "title": "Pac Manufacturing - Ghost Creator",
+        "textOne": "Pac Manufacturing",
+        "textTwo": "Ghost Creator",
+        "tech": ["JavScript", "Handlebars", "SCSS", "Gulp"],
+        "description": "I had the honor of doing another landing page for Stepan Sarpaneva's latest watch model, Daredevil. I was excited to revisit the code from the previous Seasons landing page to clean it up some. I incorporated some practices and conventions from SMACSS and BEM as well as focused on writing this in Vanilla JavaScript and ES6 only. I am very happy with how this turned out.",
+        "links": {
+            "live": "https://yuschick.github.io/Pac-Manufacturing-Ghost-Generator/",
+            "github": "https://github.com/yuschick/Pac-Manufacturing-Ghost-Generator",
+            "codepen": "http://codepen.io/Yuschick/pen/mAGmRd",
+            "preview": "https://yuschick.github.io/Pac-Manufacturing-Ghost-Generator/"
+        },
+        "image": "ghost-creator.jpg",
+        "featured": true
+    }
+]
