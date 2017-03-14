@@ -9,15 +9,18 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 
 ## To Do
 - [ ] Create state for the About content
-- [ ] Create state for the Blog content
-- [ ] Make `ProjectFull` component dynamic
-- [ ] Make `BlogPreview` component dynamic
+- [x] Create state for the Blog content
+- [x] Make `ProjectFull` component dynamic
+- [x] Make `BlogPreview` component dynamic
 - [ ] Handle responsiveness
-- [ ] Diagnose Router and History issue (not being able to click back) with the `/work` and `/work/:id`
+- [x] Diagnose Router and History issue (not being able to click back) with the `/work` and `/work/:id`
 - [ ] Add animated watch design behind navigation
 - [ ] Extract `app.css` to component-driven stylesheets
-- [ ] Explore using project titles instead of IDs in the url
+- [x] Explore using project titles instead of IDs in the url
 - [ ] Integrate with DeployBot
+- [x] Allow refresh on project details page
+- [x] Show loader during Ajax requests
+- [ ] Figure out the empty home page
 
 #### Stretch
 - [ ] Admin login via Facebook

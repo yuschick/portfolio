@@ -1,10 +1,8 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router';
-import {titleToUrl} from '../helpers';
 
 class WorkPreview extends Component {
     render() {
-        const id = titleToUrl(this.props.p.title);
         return (
             <section className="project-preview">
                 <span>{this.props.p.textOne}</span>

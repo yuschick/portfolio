@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "date": "2015/06/22",
+    "preview": "After my previous presentations with the Raleigh/Durham Web Design Group on CSS and mobile emulation, I was welcomed back to give a presentation on Sass. I was greatly looking forward to this opportunity as Sass is one of my favorite technolgies and one I find to be very exciting. With the idea set, I next had to define my scope, goals, and even a theme.",
+    "title": "Sass Presentation: In Between the Lines There's a lot of Redundancy",
+    "url": "http://codepen.io/Yuschick/post/sass-presentation-in-between-the-lines-there-s-a-lot-of-redundancy"
+}, {
+    "id": 2,
+    "date": "2015/06/27",
+    "preview": "Join me July 14 in Raleigh with the Raleigh-Durham Web Design Group as I present on SVG aniation basics wrapped in an Archer theme. The full overview is below.",
+    "title": "Intro to SVG Animation | Raleigh, July 14, 2015",
+    "url": "http://codepen.io/Yuschick/post/intro-to-svg-animation-raleigh-july-14"
+}, {
+    "id": 3,
+    "date": "2015/07/21",
+    "preview": "CodePen is such an incredible site that I use for constant inspiration, reference, and to showcase my own ideas and projects; I use it daily. So when CodePen released its top 100 pens of 2014 I was thrilled to see my Flat Surface Shader included at #77. CodePen Top 100 Pens of 2014.",
+    "title": "Making a Top Pen of 2014",
+    "url": "http://codepen.io/Yuschick/post/top-pens-of-2014"
+}, {
+    "id": 19,
+    "date": "2015/08/25",
+    "preview": "I recently had the opportunity to dive into HTML5 video and I quickly realized how powerful and customizable it can be. I was building a simple interactive player with looping and chapters. When handling the current time of the video, though, I found that the editors were exporting marker points by frame number and not actual time. So in order to use this data, I wanted to find a clean and flexible way to adjust the current video time by frame numbers.",
+    "title": "HTML5 CurrentTime and Frame Numbers",
+    "url": "http://codepen.io/Yuschick/post/html5-currenttime-and-frame-numbers"
+}, {
+    "id": 4,
+    "date": "2015/08/30",
+    "preview": "I have spent a lot of time this past year working with SVG animation primarily with SnapSVG. I have grown to really enjoy the library and have relied on it heavily in some projects. However, getting your head around some of the animation potential could be a bit overwhelming even for simple tasks such as loops and path animations. This is partially what motivated me to write SnapFoo, an open source JavaScript library that extends off of SnapSVG to help simplify the SVG animation process.",
+    "title": "SnapFoo - An SVG Animation Library",
+    "url": "http://codepen.io/Yuschick/post/snapfoo-an-svg-animation-library"
+}, {
+    "id": 5,
+    "date": "2015/09/23",
+    "preview": "It’s widely accepted that truly responsive design has breakpoints that fit the site content not the device. However, there are still sites and frameworks that use device-focused breakpoints to handle their responsiveness with the most common being 1024, 768, 480, and 320. With iOS 9 comes a new wrinkle into this method thus separating the “responsive” sites from the responsive.",
+    "title": "iOS 9 Will Separate 'Responsive' from Responsive",
+    "url": "http://codepen.io/Yuschick/post/ios-9-will-separate-responsive-from-responsive"
+}, {
+    "id": 6,
+    "date": "2015/11/15",
+    "preview": "I recently made a pretty drastic career shift going from a small startup-like environment to a global Fortune 50 corporation. The most common response I get to this move relates to the salary, immediately assuming I left in pursuit of a bigger payday. It’s no secret that money is a motivational factor but if money is the primary reason you take a position, that professional relationship is set up to fail already. While I rely heavily on my patience during this career transition, I remind myself of the factors that keep me happy and in a specific role.",
+    "title": "What I Truly Want As a Developer",
+    "url": "http://codepen.io/Yuschick/post/what-i-truly-want-as-a-developer"
+}, {
+    "id": 7,
+    "date": "2015/11/23",
+    "preview": "It’s well known that mechanical timepieces are one of my interests. I often attribute this to the fact that the geometry, precision, and hands-on skillsets are so far out of my own wheelhouse that it lures me in. Just as often, I proclaim that if I were to ever win the lottery (first, I’d have to play) I would enroll into watchmaking classes to learn the art. Alas, I haven’t won the lottery to attend schooling or acquire the pieces I hold in the highest regard. So I work with what I’ve got – vector images, JavaScript, and CodePen.",
+    "title": "TickTockJS - A Library for Telling Time with SVG",
+    "url": "http://codepen.io/Yuschick/post/ticktockjs"
+}, {
+    "id": 8,
+    "date": "2016/02/09",
+    "preview": "There are a few things people know about me; I do web development, am an absolute horror buff, and for whatever reason, love mechanical watches. The reactions I receive when I mention I have a favorite watchmaker are generally confused as if the profession is no longer a thing. But I live in the south so the confused expression is generally paired with 'bless your heart'. But it’s true. I have a favorite watchmaker, the Helsinki-based Stepan Sarpaneva, and I was recently honored to do some development to promote his latest model, the K0 Seasons.",
+    "title": "Surreal Development - Building a Project for Sarpaneva",
+    "url": "http://codepen.io/Yuschick/post/surreal-development-building-a-project-for-sarpaneva"
+}, {
+    "id": 9,
+    "date": "2016/04/13",
+    "preview": "This past week I was given the opportunity by the Raleigh-Durham Web Design Group to present on a topic I really enjoy, CSS Transitions and Animations. It's no secret that I have a lot of interest in both CSS and SVG as it relates to interaction and animation. So with the date set of April 12, I began working on my slide outlines.",
+    "title": "Presentation: Getting Down with CSS Transitions & Animations",
+    "url": "http://codepen.io/Yuschick/post/getting-down-with-css-transitions-animations"
+}, {
+    "id": 0,
+    "date": "2016/04/30",
+    "preview": "About two years ago my interest in SVG and SVG animation, in particular, really began taking off. This casual interest was taken to another level during a project which relied heavily upon this technology. This is when I began pushing the animation capabilities of SnapSVG, a solid SVG framework I began using at the start of my interest. As this project grew larger the methods I had written began forming the loose structure of its own animation library; enter SnapFoo.",
+    "title": "SnapFoo V2 – Improving SVG Animation with SnapSVG",
+    "url": "http://codepen.io/Yuschick/post/snapfoo-improving-svg-animation-with-snapsvg"
+}, {
+    "id": 10,
+    "date": "2016/06/22",
+    "preview": "I've recently started using Ember CLI as a convenient way to build my next pet project. While learning its structure and finding common patterns through my development process,I have come to rely a fair amount of custom helpers for my Handlebars templates. While some pertain to date formats, file paths, and other basic things, I have recently incorporated my new favorite, the prevent-orphan helper.",
+    "title": "Prevent Orphan Words - Handlebars Helper",
+    "url": "http://codepen.io/Yuschick/post/prevent-orphan-words-handlebars-helper"
+}, {
+    "id": 11,
+    "date": "2016/08/13",
+    "preview": "Just this week I had the opportunity to give a guest lecture at The Iron Yard in Durham, NC covering a basic intro to JavaScript. The Iron Yard is a hands-on school teaching several different types of programming primarily geared toward those looking for a career change. This guest lecture was part of the Front-End Technologies course and came on the heels of just finishing up the Html and CSS portions of the class.",
+    "title": "Intro to JavaScript - Guest Lecture",
+    "url": "http://codepen.io/Yuschick/post/intro-to-javascript-guest-lecture"
+}, {
+    "id": 12,
+    "date": "2016/08/18",
+    "preview": "At the beginning of the year I wrote a blog called ‘What I Truly Want as a Developer’. This blog covered the areas of a job that, for me, keep me engaged, interested, and happy. These keys boil down to creativity, flexibility, and trust. I want to be able to grow as a person and professional around people I like and respect, while having a work-life balance that allows me to do more than just work for the weekend, and not be tied in a PTO noose any time I need to take a half hour for an appointment or something. It’s asking a lot but whenever these keys aren’t met I am struck with wanderlust for another place where they may.",
+    "title": "New Job: Front-End Engineering Instructor",
+    "url": "http://codepen.io/Yuschick/post/new-job-front-end-engineering-instructor"
+}, {
+    "id": 13,
+    "date": "2016/09/17",
+    "preview": "As I had written about in my last post, I have accepted a position as the Front-End Engineering Instructor with The Iron Yard in Durham last month. I had never done anything more than speaking at various Meetup groups so the idea of teaching was pretty daunting. A developer's worst enemy, imposter syndrome, had hit me quite hard but so did the curiosity of trying something new. So how am I feeling after the first week of the 12-week course?",
+    "title": "The Iron Yard - Week 1 Review",
+    "url": "http://codepen.io/Yuschick/post/the-iron-yard-week-1-review"
+}, {
+    "id": 14,
+    "date": "2016/10/09",
+    "preview": "Well, that escalated quickly. My good intention of posting every week had quickly gotten brushed aside as I considered it more worthwhile brushing up on some topics and prepping code samples for the upcoming lectures. So far I've been able to excitedly demonstrate Sass, tie in multiple JavaScript objects to feed a panda, and even deviated from the traditional Person or Animal prototype examples to create the ghosts from Pacman. And most recently, given the fact it's now October, our week of APIs revolved around The Movie Database and searching for some of my favorite horror movies. Whew!",
+    "title": "The Iron Yard - Weeks 2-4 Review",
+    "url": "http://codepen.io/Yuschick/post/the-iron-yard-weeks-2-4-review"
+}, {
+    "id": 15,
+    "date": "2016/10/16",
+    "preview": "I cannot believe that tomorrow begins Week 6 of my first cohort. The time has been flying! We're also well into October so the horror-related festivities are ramping up. Additionally, we've solidified our grasp on Handlebars, Ajax requests working with APIs, and creating base projects with NPM and Grunt all while also getting our feet wet with unit testing. Yep, it was that kind of week.",
+    "title": "The Iron Yard - Week 5 Review",
+    "url": "http://codepen.io/Yuschick/post/the-iron-yard-week-5-review"
+}, {
+    "id": 16,
+    "date": "2016/11/06",
+    "preview": "Breathe. The breakneck weeks are coming to an end and the relative calm is near. For me at least. The past few weeks have seen a lot of new content, some exciting projects, and a great field trip to a terrific conference. But as lectures are nearing their end, I am finding a moment to step back to take a look at what has been accomplished in the past two months. And when I take that moment it's impossible not to be proud.",
+    "title": "The Iron Yard - Weeks 6-8 Review",
+    "url": "http://codepen.io/Yuschick/post/the-iron-yard-weeks-6-8-review"
+}, {
+    "id": 17,
+    "date": "2016/12/06",
+    "preview": "I don't know if this has been the longest or quickest three months of my life. But I do know it's been the most rewarding. Everything culminated to graduation day which occurred this past Friday and boy was it filled with the feels.",
+    "title": "The Iron Yard - Graduation Day",
+    "url": "http://codepen.io/Yuschick/post/the-iron-yard-graduation-day"
+}, {
+    "id": 18,
+    "date": "2017/03/12",
+    "preview": "I've recently begun working with React. So far so good! There is something quite intuitive about the use of state and reliance on components. Being able to break code down into very small, manageable components that are dynamic and flexible has made the transition into this framework feel pretty smooth. However, there are some nuances that I have hit during my first few projects.",
+    "title": "React - Passing State to {props.children} in JSX",
+    "url": "http://codepen.io/Yuschick/post/react-passing-state-to-props-children-in-jsx"
+}]

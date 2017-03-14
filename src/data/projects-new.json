@@ -1,5 +1,5 @@
 [{
-        "id": "project-001",
+        "id": "snapfoo-svg-animation-library",
         "title": "SnapFoo - SVG Animation Library",
         "textOne": "SnapFoo",
         "textTwo": "SVG Animation Library",
@@ -15,7 +15,7 @@
         "featured": true
     },
     {
-        "id": "project-002",
+        "id": "archer-svg-animated-pirate-virus",
         "title": "Archer SVG Animated Pirate Virus",
         "textOne": "Archer",
         "textTwo": "SVG Animated Pirtae Virus",
@@ -31,7 +31,7 @@
         "featured": false
     },
     {
-        "id": "project-003",
+        "id": "ibm-responsive-diamond-navigation",
         "title": "IBM - Responsive Diamond Navigation",
         "textOne": "IBM",
         "textTwo": "Responsive Diamond Navigation",
@@ -47,7 +47,7 @@
         "featured": false
     },
     {
-        "id": "project-004",
+        "id": "speake-marin-velsheda",
         "title": "Speake-Marin Velsheda - SVG Animated Watch",
         "textOne": "Speake-Marin Velsheda",
         "textTwo": "SVG Animated Watch",
@@ -63,7 +63,7 @@
         "featured": false
     },
     {
-        "id": "project-005",
+        "id": "ressence-t3",
         "title": "Ressence T3 - SVG Animated Watch",
         "textOne": "Ressence T3",
         "textTwo": "SVG Animated Watch",
@@ -79,7 +79,7 @@
         "featured": false
     },
     {
-        "id": "project-006",
+        "id": "sarpaneva-seasons-landing-page",
         "title": "Sarpaneva K0 Seasons - Landing Page",
         "textOne": "Sarpaneva K0 Seasons",
         "textTwo": "Landing Page",
@@ -95,7 +95,7 @@
         "featured": false
     },
     {
-        "id": "project-007",
+        "id": "sarpaneva-northern-lights",
         "title": "Sarpaneva Northern Lights - SVG Animated Watch",
         "textOne": "Sarpaneva Northern Lights",
         "textTwo": "SVG Animated Watch",
@@ -111,7 +111,7 @@
         "featured": true
     },
     {
-        "id": "project-008",
+        "id": "a-lange-sohne-zeitwerk",
         "title": "A. Lange & Söhne Zeitwerk - SVG Animated Watch",
         "textOne": "A. Lange & Söhne Zeitwerk",
         "textTwo": "SVG Animated Watch",
@@ -127,7 +127,7 @@
         "featured": false
     },
     {
-        "id": "project-009",
+        "id": "ibm-puresystems-pureapp-emulator",
         "title": "IBM PureSystems - PureApp Emulator",
         "textOne": "IBM PureSystems",
         "textTwo": "PureApp Emulator",
@@ -143,7 +143,7 @@
         "featured": false
     },
     {
-        "id": "project-010",
+        "id": "31-nights-of-horror-2015",
         "title": "31 Nights of Horror - 2015",
         "textOne": "31 Nights of Horror",
         "textTwo": "2015",
@@ -159,7 +159,7 @@
         "featured": false
     },
     {
-        "id": "project-011",
+        "id": "31-nights-of-horror-2016",
         "title": "31 Nights of Horror - 2016",
         "textOne": "31 Nights of Horror",
         "textTwo": "2016",
@@ -175,7 +175,7 @@
         "featured": true
     },
     {
-        "id": "project-012",
+        "id": "fp-journe-tourbillon",
         "title": "F.P. Journe Ten Years Anniversary Tourbillon - SVG Animated Watch",
         "textOne": "F.P. Journe",
         "textTwo": "SVG Animated Watch",
@@ -191,7 +191,7 @@
         "featured": false
     },
     {
-        "id": "project-013",
+        "id": "flat-surface-shader",
         "title": "Flat Surface Shader",
         "textOne": "Flat Surface Shader",
         "textTwo": null,
@@ -207,7 +207,7 @@
         "featured": false
     },
     {
-        "id": "project-014",
+        "id": "sarpaneva-daredevil-landing-page",
         "title": "Sarpaneva K0 Daredevil - Landing Page",
         "textOne": "Sarpaneva K0 Daredevil",
         "textTwo": "Landing Page",
@@ -223,7 +223,7 @@
         "featured": false
     },
     {
-        "id": "project-015",
+        "id": "pac-manulfacturing-ghost-creator",
         "title": "Pac Manufacturing - Ghost Creator",
         "textOne": "Pac Manufacturing",
         "textTwo": "Ghost Creator",
