@@ -63,10 +63,14 @@ time {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    position: fixed;
     top: 0;
+    width: 33.333%;
 }
 .panel:last-child {
+    float: right;
     min-height: 100vh;
     overflow: hidden;
     position: relative;
+    width: 66.666%;
 }
