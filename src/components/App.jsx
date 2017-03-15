@@ -9,25 +9,19 @@ class App extends Component {
     constructor() {
         super();
         this.state = {
-            projects: [],
-            blogs: []
+            projects: []
         };
     }
 
     componentWillMount() {
-        this.refProjects = base.syncState(`/projects`, {
+        this.ref = base.syncState(`/projects`, {
             context: this,
             state: 'projects'
-        });
-        this.refBlogs = base.syncState(`/blogs`, {
-            context: this,
-            state: 'blogs'
         });
     }
 
     componentWillUnmount() {
-        base.removeBinding(this.refProjects);
-        base.removeBinding(this.refBlogs);
+        base.removeBinding(this.ref);
     }
 
     render() {
@@ -36,8 +30,6 @@ class App extends Component {
 
             if (path.lastIndexOf('work', 0) === 0) {
                 return React.cloneElement(child, {projects: this.state.projects})
-            } else if (path.lastIndexOf('blog', 0) === 0) {
-                return React.cloneElement(child, {blogs: this.state.blogs})
             } else {
                 return child;
             }
