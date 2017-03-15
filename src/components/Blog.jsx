@@ -3,6 +3,7 @@ import BlogPreview from './BlogPreview';
 import base from '../base';
 import Loader from './Loader';
 import {sort} from '../helpers';
+import '../styles/blogs.css';
 
 class Blog extends Component {
     constructor() {

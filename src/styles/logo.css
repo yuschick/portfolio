@@ -1,0 +1,28 @@
+.name-container {
+    align-items: center;
+    background: #333;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    padding: .5rem;
+    text-align: center;
+    width: 100%;
+}
+.logo {
+    height: auto;
+    margin-right: 1rem;
+    width: 40px;
+}
+.logo circle {
+    fill: #fff;
+    stroke: #E96126;
+    stroke-miter-limit: 10px;
+    stroke-width: 7px;
+}
+.logo path {
+    fill: #E96126;
+}
+.headshot-container {
+    margin: 0 auto;
+    width: 100%;
+}

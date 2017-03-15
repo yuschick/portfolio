@@ -4,6 +4,7 @@ import Panel from './Panel';
 import Nav from './Nav';
 import base from '../base';
 import '../styles/app.css';
+import '../styles/logo.css';
 
 class App extends Component {
     constructor() {

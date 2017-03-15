@@ -1,0 +1,29 @@
+.project-previews-container {
+    align-content: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.project-preview {
+    margin: .5rem;
+    overflow: hidden;
+    position: relative;
+    width: calc(50% - 1rem);
+}
+.project-preview span {
+    background: #fff;
+    padding: .25rem;
+    position: absolute;
+    transition: padding .25s cubic-bezier(.11, .95, .93, 1.14);
+}
+.project-preview span:first-child {
+    bottom: 3rem;
+    font-size: 1.5rem;
+    transition-delay: .06s;
+}
+.project-preview span:last-of-type {
+    bottom: 1rem;
+}
+.project-preview:hover span {
+    padding-left: 1.25rem;
+}
