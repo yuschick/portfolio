@@ -118,4 +118,10 @@
     "preview": "I've recently begun working with React. So far so good! There is something quite intuitive about the use of state and reliance on components. Being able to break code down into very small, manageable components that are dynamic and flexible has made the transition into this framework feel pretty smooth. However, there are some nuances that I have hit during my first few projects.",
     "title": "React - Passing State to {props.children} in JSX",
     "url": "http://codepen.io/Yuschick/post/react-passing-state-to-props-children-in-jsx"
+}, {
+    "id": 19,
+    "date": "2017/03/16",
+    "preview": "As I delve deeper into React I want to continue writing about issues I hit or just just little tips I have come across. In this post I will be covering how to reset the window's scroll position top the top as the user changes routes.",
+    "title": "React - Reset Scroll Position when Changing Routes",
+    "url": "http://codepen.io/Yuschick/post/react-reset-scroll-position-when-changing-routes"
 }]

@@ -23,7 +23,7 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 - [ ] Figure out the empty home page
 - [ ] Dig into Redux for consistent State management, specifically for the projects section
 - [x] Remove `state.blogs` from App and move it to the blog component
-- [ ] Adjust Project Full links to only show when available
+- [x] Adjust Project Full links to only show when available
 
 #### Stretch
 - [ ] Admin login via Facebook

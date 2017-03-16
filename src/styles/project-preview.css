@@ -27,3 +27,6 @@
 .project-preview:hover span {
     padding-left: 1.25rem;
 }
+.project-link {
+    margin-right: .75rem;
+}

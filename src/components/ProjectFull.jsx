@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Loader from './Loader';
+import WorkLink from './WorkLink';
 import {lookup} from '../helpers';
 
 class ProjectFull extends Component {
@@ -20,7 +21,11 @@ class ProjectFull extends Component {
                 <h3>Technologies</h3>
                 <p>{project.tech.join(', ')}</p>
                 <h3>Visit</h3>
-                <p>Live | CodePen | GitHub</p>
+                <p>{Object.keys(project.links).map((key) => {
+                        if (key === 'preview')
+                            return;
+                        return <WorkLink url={project.links[key]} key={key} label={key}/>;
+                    })}</p>
             </section>
         )
     }
