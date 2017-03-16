@@ -30,3 +30,4 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 - [ ] Auth in Firebase
 - [ ] CRUD behavior for projects, blogs, and about content
 - [ ] Add search functionality for blog
+- [ ] Incorporate Sass just because
