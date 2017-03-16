@@ -119,7 +119,7 @@
     "title": "React - Passing State to {props.children} in JSX",
     "url": "http://codepen.io/Yuschick/post/react-passing-state-to-props-children-in-jsx"
 }, {
-    "id": 19,
+    "id": 20,
     "date": "2017/03/16",
     "preview": "As I delve deeper into React I want to continue writing about issues I hit or just just little tips I have come across. In this post I will be covering how to reset the window's scroll position top the top as the user changes routes.",
     "title": "React - Reset Scroll Position when Changing Routes",

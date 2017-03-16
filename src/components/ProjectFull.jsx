@@ -23,7 +23,7 @@ class ProjectFull extends Component {
                 <h3>Visit</h3>
                 <p>{Object.keys(project.links).map((key) => {
                         if (key === 'preview')
-                            return;
+                            return false;
                         return <WorkLink url={project.links[key]} key={key} label={key}/>;
                     })}</p>
             </section>

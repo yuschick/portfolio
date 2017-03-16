@@ -12,7 +12,7 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 - [x] Create state for the Blog content
 - [x] Make `ProjectFull` component dynamic
 - [x] Make `BlogPreview` component dynamic
-- [ ] Handle responsiveness
+- [x] Handle responsiveness
 - [x] Diagnose Router and History issue (not being able to click back) with the `/work` and `/work/:id`
 - [ ] Add animated watch design behind navigation
 - [x] Extract `app.css` to component-driven stylesheets

@@ -20,7 +20,6 @@ h1 a,
 h1 a:visited,
 h1 a:active {
     color: #fff;
-    font-size: 2.25rem;
     font-family: 'Lora', serif;
     text-transform: uppercase;
     text-decoration: none;
@@ -63,14 +62,66 @@ time {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    position: fixed;
     top: 0;
-    width: 33.333%;
 }
 .panel:last-child {
-    float: right;
     min-height: 100vh;
     overflow: hidden;
     position: relative;
-    width: 66.666%;
+}
+@media screen and (min-width: 320px) {
+    .panel:first-child {
+        position: static;
+        width: 100%;
+    }
+    .panel:last-child {
+        float: none;
+        width: 100%;
+    }
+    h1,
+    h1 a,
+    h1 a:visited,
+    h1 a:active {
+        font-size: 2.25rem;
+    }
+    iframe {
+        display: none;
+    }
+}
+@media screen and (min-width: 550px) {
+    iframe {
+        display: block;
+    }
+}
+@media screen and (min-width: 800px) {
+    .panel:first-child {
+        position: fixed;
+        width: 33.333%;
+    }
+    .panel:last-child {
+        float: right;
+        width: 66.666%;
+    }
+    h1,
+    h1 a,
+    h1 a:visited,
+    h1 a:active {
+        font-size: 1.5rem;
+    }
+}
+@media screen and (min-width: 900px) {
+    h1,
+    h1 a,
+    h1 a:visited,
+    h1 a:active {
+        font-size: 1.75rem;
+    }
+}
+@media screen and (min-width: 1165px) {
+    h1,
+    h1 a,
+    h1 a:visited,
+    h1 a:active {
+        font-size: 2.25rem;
+    }
 }

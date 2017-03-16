@@ -30,3 +30,29 @@
 .project-link {
     margin-right: .75rem;
 }
+@media screen and (min-width: 320px) {
+    .project-preview {
+        width: calc(100% - 1rem);
+    }
+    .project-preview img {
+        width: 100%;
+    }
+}
+@media screen and (min-width: 700px) {
+    .project-preview {
+        width: calc(50% - 1rem);
+    }
+}
+@media screen and (min-width: 800px) {
+    .project-preview {
+        width: calc(100% - 1rem);
+    }
+    .project-preview img {
+        width: 100%;
+    }
+}
+@media screen and (min-width: 1050px) {
+    .project-preview {
+        width: calc(50% - 1rem);
+    }
+}
