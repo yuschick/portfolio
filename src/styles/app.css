@@ -41,6 +41,7 @@ h3 {
 }
 iframe {
     height: 625px;
+    margin-bottom: 1.5rem;
     width: 100%;
 }
 time {

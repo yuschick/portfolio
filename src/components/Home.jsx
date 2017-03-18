@@ -3,7 +3,6 @@ import Icon from './Icon';
 import '../styles/home.css';
 import classroom from '../images/home-classroom.jpg';
 import chocolate from '../images/icon-chocolate.png';
-import pizza from '../images/icon-pizza.png';
 import metal from '../images/icon-metal.png';
 import developer from '../images/icon-developer.png';
 import instructor from '../images/icon-instructor.png';
@@ -31,7 +30,6 @@ class Home extends Component {
                     <Icon image={metal} alt="Metalhead" title="Metalhead"/>
                     <Icon image={basketball} alt="Basketball Fan" title="Basketball Fan"/>
                     <Icon image={chocolate} alt="Chocolate Lover" title="Chocolate 💕"/>
-                    <Icon image={pizza} alt="All the Pizza" title="All the Pizza"/>
                     <Icon image={drummer} alt="Drummer" title="Drummer"/>
                 </section>
             </section>

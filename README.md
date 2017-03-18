@@ -5,12 +5,14 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 
 ## Shouts
 - [Hero Patterns](http://www.heropatterns.com/) for the Gears SVG background
-- Wes Bos for help with React
+- Wes Bos for help with [React for Beginners](http://www.reactforbeginners.com)
 
 ## To Do
 - [ ] Create state for the About content
 - [ ] Dig into Redux for consistent State management, specifically for the projects section
 - [ ] Integrate with DeployBot
+- [ ] Touch up <400 breakpoints
+- [ ] Sticky nav on mobile
 - [x] Implement loading per project preview
 - [x] Create state for the Blog content
 - [x] Make `ProjectFull` component dynamic
