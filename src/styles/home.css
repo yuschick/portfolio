@@ -32,7 +32,7 @@
     justify-content: space-between;
     margin: 1rem .5rem;
     text-align: center;
-    width: 110px;
+    width: calc(100% * (1/4));
 }
 .icon img {
     margin-bottom: .5rem;

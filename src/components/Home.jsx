@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import Icon from './Icon';
 import '../styles/home.css';
 import classroom from '../images/home-classroom.jpg';
 import chocolate from '../images/icon-chocolate.png';
@@ -23,42 +24,15 @@ class Home extends Component {
                     </div>
                 </div>
                 <section className="icons-container">
-                    <div className="icon">
-                        <img src={instructor} alt="Front-End Engineering Instructor"/>
-                        <span>Instructor</span>
-                    </div>
-                    <div className="icon">
-                        <img src={developer} alt="Front-End Developer"/>
-                        <span>Developer</span>
-                    </div>
-                    <div className="icon">
-                        <img src={dog} alt="Dog Owner"/>
-                        <span>Dog Owner</span>
-                    </div>
-                    <div className="icon">
-                        <img src={ghost} alt="Horror Buff"/>
-                        <span>Horror Buff</span>
-                    </div>
-                    <div className="icon">
-                        <img src={metal} alt="Metalhead"/>
-                        <span>Metalhead</span>
-                    </div>
-                    <div className="icon">
-                        <img src={basketball} alt="Basketball Fan"/>
-                        <span>Basketball Fan</span>
-                    </div>
-                    <div className="icon">
-                        <img src={chocolate} alt="Lover of Chocolate"/>
-                        <span>Chocolate 💕</span>
-                    </div>
-                    <div className="icon">
-                        <img src={pizza} alt="All the Pizza"/>
-                        <span>All the Pizza</span>
-                    </div>
-                    <div className="icon">
-                        <img src={drummer} alt="Drummer"/>
-                        <span>Drummer</span>
-                    </div>
+                    <Icon image={instructor} alt="Front-End Engineering Instructor" title="Instructor"/>
+                    <Icon image={developer} alt="Front-End Developer" title="Developer"/>
+                    <Icon image={dog} alt="Dog Owner" title="Dog Owner"/>
+                    <Icon image={ghost} alt="Horror Buff" title="Horror Buff"/>
+                    <Icon image={metal} alt="Metalhead" title="Metalhead"/>
+                    <Icon image={basketball} alt="Basketball Fan" title="Basketball Fan"/>
+                    <Icon image={chocolate} alt="Chocolate Lover" title="Chocolate 💕"/>
+                    <Icon image={pizza} alt="All the Pizza" title="All the Pizza"/>
+                    <Icon image={drummer} alt="Drummer" title="Drummer"/>
                 </section>
             </section>
         )

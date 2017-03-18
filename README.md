@@ -10,8 +10,8 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 ## To Do
 - [ ] Create state for the About content
 - [ ] Dig into Redux for consistent State management, specifically for the projects section
-- [ ] Implement loading per project preview
 - [ ] Integrate with DeployBot
+- [x] Implement loading per project preview
 - [x] Create state for the Blog content
 - [x] Make `ProjectFull` component dynamic
 - [x] Make `BlogPreview` component dynamic
