@@ -15,7 +15,6 @@ nav a:visited {
 }
 a.nav-link {
     display: block;
-    font-size: 1.5rem;
     font-family: 'Raleway', sans-serif;
     position: relative;
     text-align: center;
@@ -39,6 +38,13 @@ a.nav-link.active:after {
 }
 @media screen and (min-width: 320px) {
     a.nav-link {
+        font-size: 1rem;
+        padding: .5rem .25rem;
+    }
+}
+@media screen and (min-width: 400px) {
+    a.nav-link {
+        font-size: 1.5rem;
         padding: .75rem .25rem;
     }
 }
