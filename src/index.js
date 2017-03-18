@@ -9,6 +9,9 @@ import About from './components/About';
 import Work from './components/Work';
 import Blog from './components/Blog';
 import ProjectFull from './components/ProjectFull';
+import NotFound from './components/NotFound';
+import Admin from './components/Admin';
+import AdminProjects from './components/AdminProjects';
 
 import './styles/modifiers.css';
 
@@ -22,6 +25,10 @@ ReactDOM.render((
                 <Route path=":id" component={ProjectFull}></Route>
             </Route>
             <Route path="/blog" component={Blog}/>
+            <Route path="/admin" component={Admin}>
+                <Route path="projects" component={AdminProjects}/>
+            </Route>
+            <Route path="*" component={NotFound}/>
         </Route>
     </Router>
 ), document.getElementById('root'));

@@ -9,7 +9,6 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 
 ## To Do
 - [ ] Create state for the About content
-- [ ] Dig into Redux for consistent State management, specifically for the projects section
 - [ ] Integrate with DeployBot
 - [x] Touch up < 400 breakpoints
 - [x] Sticky nav on mobile
@@ -29,8 +28,9 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 
 #### Stretch
 - [ ] Add animated watch design behind navigation
-- [ ] Admin login via Facebook
-- [ ] Auth in Firebase
+- [x] Admin login via GitHub
+- [ ] Dig into Redux for consistent State management, specifically for the projects section
+- [x] Auth in Firebase
 - [ ] CRUD behavior for projects, blogs, and about content
 - [ ] Add search functionality for blog
 - [ ] Incorporate Sass just because
