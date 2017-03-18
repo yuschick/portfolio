@@ -20,7 +20,7 @@ h1 a,
 h1 a:visited,
 h1 a:active {
     color: #fff;
-    font-family: 'Lora', serif;
+    font-family: 'Architects Daughter', serif;
     text-transform: uppercase;
     text-decoration: none;
 }
@@ -68,6 +68,12 @@ time {
     min-height: 100vh;
     overflow: hidden;
     position: relative;
+}
+.download-link {
+    bottom: 1rem;
+    position: absolute;
+    right: 1rem;
+    width: 50px;
 }
 @media screen and (min-width: 320px) {
     .panel:first-child {

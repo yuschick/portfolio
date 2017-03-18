@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import headshot from '../images/about-headshot.jpg';
+import resume from '../files/danyuschick-resume.pdf';
 
 class About extends Component {
     render() {
@@ -7,13 +8,13 @@ class About extends Component {
             <div>
                 <div className="headshot-container">
                     <img src={headshot} alt="Dan Yuschick"/>
+                    <a className="download-link" href={resume} target="_blank"><img src="https://freeiconshop.com/wp-content/uploads/edd/pdf-flat.png" alt="Download Resume"/></a>
                 </div>
                 <article className="about-section">
                     <header className="is-block-header">
                         <h2>About Me</h2>
                     </header>
                     <p>My passion for front‐end development began with design which has served as a beneficial compliment to my skillset as I began working with more front‐end technologies. With a continued inspiration to learn, I stay active with personal projects and in various Meetup groups by presenting on a range of topics. This interest in speaking and sharing with the development community lead me to teaching where I can continue growing not only as a developer but as a leader that is able to utilize the extent of my background.</p>
-                    <p>There are three reasons I love what I do, the first being that development and design are creative outlets. The field allows me to explore and build anything I can imagine. I also enjoy a good challenge and there’s at least one with every project. Of course, at the time of the challenge I'll get irritated but ultimately, I take the most away from those hours on Google and Stack Overflow. Lastly, web development does not lend itself to stagnation. If I’m not evolving, growing, and learning, there’s no room for me here. The endless technologies and information keep me interested.</p>
                     <p>Outside of development and design though, I love keeping up with other interests such as playing basketball, trying to wear out my dog, Abbie, playing video games, drumming, reading, and sampling local breweries. I'm also fairly certain I've seen that horror movie you can't quite recall and can finish that Archer quote that had you in tears.</p>
                 </article>
                 <article className="about-section">

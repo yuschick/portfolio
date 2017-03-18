@@ -9,23 +9,24 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 
 ## To Do
 - [ ] Create state for the About content
+- [ ] Dig into Redux for consistent State management, specifically for the projects section
+- [ ] Implement loading per project preview
+- [ ] Integrate with DeployBot
 - [x] Create state for the Blog content
 - [x] Make `ProjectFull` component dynamic
 - [x] Make `BlogPreview` component dynamic
 - [x] Handle responsiveness
 - [x] Diagnose Router and History issue (not being able to click back) with the `/work` and `/work/:id`
-- [ ] Add animated watch design behind navigation
 - [x] Extract `app.css` to component-driven stylesheets
 - [x] Explore using project titles instead of IDs in the url
-- [ ] Integrate with DeployBot
 - [x] Allow refresh on project details page
 - [x] Show loader during Ajax requests
-- [ ] Figure out the empty home page
-- [ ] Dig into Redux for consistent State management, specifically for the projects section
+- [x] Figure out the empty home page
 - [x] Remove `state.blogs` from App and move it to the blog component
 - [x] Adjust Project Full links to only show when available
 
 #### Stretch
+- [ ] Add animated watch design behind navigation
 - [ ] Admin login via Facebook
 - [ ] Auth in Firebase
 - [ ] CRUD behavior for projects, blogs, and about content
