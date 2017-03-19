@@ -27,7 +27,7 @@ class WorkPreview extends Component {
                 <span>{this.props.p.textTwo}</span>
                 {this.showLoader()}
                 <Link to={`/work/${this.props.p.id}`}>
-                    <img src={`http://danyuschick.com/assets/images/projects/${this.props.p.image}`} alt={this.props.p.title} onLoad={this.imageLoaded}/>
+                    <img src={require(`../images/projects/${this.props.p.image}`)} alt={this.props.p.title} onLoad={this.imageLoaded}/>
                 </Link>
             </section>
         )

@@ -8,8 +8,8 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 - Wes Bos for help with [React for Beginners](http://www.reactforbeginners.com)
 
 ## To Do
-- [ ] Create state for the About content
 - [ ] Integrate with DeployBot
+- [x] Create state for the About content
 - [x] Touch up < 400 breakpoints
 - [x] Sticky nav on mobile
 - [x] Implement loading per project preview
@@ -33,4 +33,3 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 - [x] Auth in Firebase
 - [ ] CRUD behavior for projects, blogs, and about content
 - [ ] Add search functionality for blog
-- [ ] Incorporate Sass just because
