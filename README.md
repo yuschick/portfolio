@@ -1,7 +1,7 @@
 # Dan Yuschick Portfolio
 #### [www.DanYuschick.com](http://www.danyuschick.com)
 
-This repo contains my working progress on my latest portfolio redesign. Not only will this build be a full redesign from the existing layout but it also deviates from my prior use of Ember in favor of React. The project was initially set up using `create-react-app` with Yarn handling my packages. The content will be synced with Firebase much like the current site but there will be a slight JSON restructuring for easier maintainability.
+This repo contains my working progress on my latest portfolio redesign. Not only will this build be a full redesign from the existing layout but it also deviates from my prior use of Ember in favor of React. The project was initially set up using `create-react-app` with Yarn handling my packages. The content will be synced with Firebase much like the current site but there will be a slight JSON restructuring for easier maintainability. Lastly, I have this integrated with DeployBot to automatically deploy any new builds that are committed to GitHub.
 
 ![Dan Yuschick dot com](https://github.com/yuschick/portfolio/blob/master/src/images/screenshot.jpg)
 
