@@ -8,7 +8,8 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 - Wes Bos for help with [React for Beginners](http://www.reactforbeginners.com)
 
 ## To Do
-- [ ] Integrate with DeployBot
+- [x] Integrate with DeployBot
+ - [x] Only deploy on new builds
 - [x] Create state for the About content
 - [x] Touch up < 400 breakpoints
 - [x] Sticky nav on mobile
