@@ -3,11 +3,11 @@
 
 This repo contains my working progress on my latest portfolio redesign. Not only will this build be a full redesign from the existing layout but it also deviates from my prior use of Ember in favor of React. The project was initially set up using `create-react-app` with Yarn handling my packages. The content will be synced with Firebase much like the current site but there will be a slight JSON restructuring for easier maintainability.
 
+![Dan Yuschick dot com](https://github.com/yuschick/portfolio/blob/master/src/images/screenshot.jpg)
+
 ## Shouts
 - [Hero Patterns](http://www.heropatterns.com/) for the Gears SVG background
 - Wes Bos for help with [React for Beginners](http://www.reactforbeginners.com)
-
-![Dan Yuschick dot com](https://github.com/yuschick/portfolio/blob/master/src/images/screenshot.jpg)
 
 ## Launch
 - [x] Integrate with DeployBot
