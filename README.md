@@ -7,7 +7,9 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 - [Hero Patterns](http://www.heropatterns.com/) for the Gears SVG background
 - Wes Bos for help with [React for Beginners](http://www.reactforbeginners.com)
 
-## To Do
+![Dan Yuschick dot com](https://github.com/yuschick/portfolio/blob/master/src/images/screenshot.jpg)
+
+## Launch
 - [x] Integrate with DeployBot
  - [x] Only deploy on new builds
 - [x] Create state for the About content
@@ -27,7 +29,7 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 - [x] Remove `state.blogs` from App and move it to the blog component
 - [x] Adjust Project Full links to only show when available
 
-#### Stretch
+#### Post Launch
 - [ ] Add animated watch design behind navigation
 - [x] Admin login via GitHub
 - [ ] Dig into Redux for consistent State management, specifically for the projects section
