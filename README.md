@@ -31,8 +31,11 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 
 #### Post Launch
 - [ ] Add animated watch design behind navigation
-- [x] Admin login via GitHub
+- [ ] Resize hero images to help accommodate much larger screens
+- [ ] Trace home icons to convert into SVG
 - [ ] Dig into Redux for consistent State management, specifically for the projects section
-- [x] Auth in Firebase
 - [ ] CRUD behavior for projects, blogs, and about content
 - [ ] Add search functionality for blog
+- [ ] Look into the iOS double click issue on the nav
+- [x] Auth in Firebase
+- [x] Admin login via GitHub
