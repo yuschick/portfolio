@@ -20,3 +20,18 @@ export function lookup(arr, field, val) {
 export function capitalize(word) {
     return word.charAt(0).toUpperCase() + word.slice(1);
 }
+
+export function replaceChar(source, target, dest) {
+    return source.replace(new RegExp(target, 'g'), dest);
+}
+
+export function getIndex(arr, field, val) {
+    let arrIndex;
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i][field] === val) {
+            arrIndex = i;
+            break;
+        }
+    }
+    return arrIndex;
+}

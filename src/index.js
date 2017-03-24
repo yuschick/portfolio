@@ -11,12 +11,9 @@ import Blog from './components/Blog';
 import ProjectFull from './components/ProjectFull';
 import NotFound from './components/NotFound';
 import Admin from './components/Admin';
-import AdminProjects from './components/AdminProjects';
-import AdminBlogs from './components/AdminBlogs';
-import AdminBlogsList from './components/AdminBlogsList';
-import AdminBlogsEdit from './components/AdminBlogsEdit';
-import AdminBlogsAdd from './components/AdminBlogsAdd';
 import AdminAbout from './components/AdminAbout';
+import AdminBlogs from './components/AdminBlogs';
+import AdminProjects from './components/AdminProjects';
 
 import './styles/modifiers.css';
 
@@ -31,13 +28,9 @@ ReactDOM.render((
             </Route>
             <Route path="/blog" component={Blog}/>
             <Route path="/admin" component={Admin}>
-                <Route path="projects" component={AdminProjects}/>
-                <Route path="blogs" component={AdminBlogs}>
-                    <IndexRoute component={AdminBlogsList}/>
-                    <Route path=':id' component={AdminBlogsEdit}/>
-                    <Route path='add' component={AdminBlogsAdd}/>
-                </Route>
-                <Route path="about" component={AdminAbout}/>
+                <IndexRoute component={AdminAbout}/>
+                <Route path="blogs(/:id)" component={AdminBlogs}/>
+                <Route path="projects(/:id)" component={AdminProjects}/>
             </Route>
             <Route path="*" component={NotFound}/>
         </Route>

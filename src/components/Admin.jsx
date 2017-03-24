@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import {IndexLink, Link} from 'react-router';
 import base from '../base';
 import '../styles/admin.css';
 
@@ -67,9 +68,15 @@ class Admin extends Component {
             <section>
                 <nav>
                     <ul className="admin-nav">
-                        <li>About</li>
-                        <li>Projects</li>
-                        <li>Blogs</li>
+                        <li>
+                            <IndexLink to='/admin/'>About</IndexLink>
+                        </li>
+                        <li>
+                            <Link to='/admin/projects'>Projects</Link>
+                        </li>
+                        <li>
+                            <Link to='/admin/blogs'>Blogs</Link>
+                        </li>
                         <li>{logout}</li>
                     </ul>
                 </nav>
