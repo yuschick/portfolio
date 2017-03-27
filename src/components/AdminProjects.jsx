@@ -92,6 +92,8 @@ class AdminProjects extends Component {
                     <input ref={(field) => this.techField = field} type="text" id="project-tech" defaultValue={project.tech}/>
                     <label htmlFor="project-description">Project Description</label>
                     <input ref={(field) => this.descriptionField = field} type="text" id="project-description" defaultValue={project.description}/>
+                    <label htmlFor="project-image">Project Image</label>
+                    <input ref={(field) => this.imageField = field} type="text" id="project-image" defaultValue={project.image}/>
                     <label htmlFor="project-live-link">Project Live Link</label>
                     <input ref={(field) => this.liveLinkField = field} type="text" id="project-live-link" defaultValue={project.links.live}/>
                     <label htmlFor="project-github-link">Project Github Link</label>
@@ -103,6 +105,9 @@ class AdminProjects extends Component {
                     <label htmlFor="project-featured">Is Featured?</label>
                     <input ref={(field) => this.featuredLinkField = field} type="checkbox" id="project-featured" checked={project.featured}/>
                     <input type="hidden" defaultValue={project.id}/>
+                    <input type="submit" className="btn-primary" value={project.title
+                        ? `Update Project`
+                        : `Add Project`}/>
                     <div className="has-spacer"></div>
                     {this.showDeleteButton()}
                 </form>
@@ -116,7 +121,7 @@ class AdminProjects extends Component {
             return (
                 <div>
                     {this.toggleNav()}
-                    {this.projectForm(lookup(projects, 'id', Number(this.props.params.id)))}
+                    {this.projectForm(lookup(projects, 'id', this.props.params.id))}
                 </div>
             )
         } else if (this.props.params.id && this.props.params.id === 'new') {
