@@ -2,14 +2,14 @@ import React, {Component} from 'react';
 import Icon from './Icon';
 import '../styles/home.css';
 import classroom from '../images/home-classroom.jpg';
-import chocolate from '../images/icon-chocolate.png';
-import metal from '../images/icon-metal.png';
-import developer from '../images/icon-developer.png';
-import instructor from '../images/icon-instructor.png';
-import ghost from '../images/icon-ghost.png';
-import dog from '../images/icon-dog.png';
-import basketball from '../images/icon-basketball.png';
-import drummer from '../images/icon-drummer.png';
+import chocolate from '../images/svgs/icon-chocolate.svg';
+import metal from '../images/svgs/icon-metal.svg';
+import developer from '../images/svgs/icon-developer.svg';
+import instructor from '../images/svgs/icon-instructor.svg';
+import ghost from '../images/svgs/icon-ghost.svg';
+import dog from '../images/svgs/icon-dog.svg';
+import basketball from '../images/svgs/icon-basketball.svg';
+import drummer from '../images/svgs/icon-drummer.svg';
 
 class Home extends Component {
     render() {

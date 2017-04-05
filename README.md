@@ -32,9 +32,11 @@ This repo contains my working progress on my latest portfolio redesign. Not only
 #### Post Launch
 - [ ] Add animated watch design behind navigation
 - [ ] Upgrade to React Router 4
-- [ ] Trace home icons to convert into SVG
+- [x] Trace home icons to convert into SVG
 - [ ] Dig into Redux and see about incorporating it into the project
-- [ ] CRUD behavior for projects, blogs, and about content
+- [ ] CRUD behavior for projects
+- [x] CRUD behavior for blogs
+- [x] CRUD behavior for about content
 - [ ] Add search functionality for blog
 - [ ] Look into the iOS double click issue on the nav
 - [x] Resize hero images to help accommodate much larger screens
