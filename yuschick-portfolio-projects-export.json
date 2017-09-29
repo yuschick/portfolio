@@ -228,4 +228,19 @@
   "textOne": "TickTock",
   "textTwo": "Watch Animation Library",
   "title": "TickTock JS - Making Digital Time Mechanical"
+}, {
+  "description": "Need horror movie recommendations this October? Check out my third annual 31 Nights of Horror calendar. Enjoy the alliteratively-themed days like Bloodthirsty Thursday and WTF Wednesday, inline movie trailers, and links to streaming services where you can watch now; many for free! I have an incredible love for horror movies and I look forward to building this project every year. Happy Halloween!",
+  "featured": true,
+  "id": "31-nights-of-horror-2017",
+  "image": "31-nights-of-horror-2017.jpg",
+  "links": {
+    "codepen": "https://codepen.io/Yuschick/pen/mBmGaL",
+    "preview": "https://yuschick.github.io/31-Nights-of-Horror-2017/",
+    "github": "https://github.com/yuschick/31-Nights-of-Horror-2017",
+    "live": "https://yuschick.github.io/31-Nights-of-Horror-2017/"
+  },
+  "tech": ["Html", "CSS", "JavaScript", "SVG", "Sass", "ES6", "Firebase", "Handlebars", "Yarn", "Webpack", "NPM Scripts", "Illustrator", "Photoshop"],
+  "textOne": "31 Nights of Horror",
+  "textTwo": "2017",
+  "title": "31 Nights of Horror - 2017"
 }]
