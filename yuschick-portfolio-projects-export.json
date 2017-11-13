@@ -186,7 +186,7 @@
   "textTwo": "Landing Page",
   "title": "Sarpaneva K0 Daredevil - Landing Page"
 }, {
-  "description": "I had the honor of doing another landing page for Stepan Sarpaneva's latest watch model, Daredevil. I was excited to revisit the code from the previous Seasons landing page to clean it up some. I incorporated some practices and conventions from SMACSS and BEM as well as focused on writing this in Vanilla JavaScript and ES6 only. I am very happy with how this turned out.",
+  "description": "Let's tinker with constructors and prototypes in JavaScript while utilizing Html5 localstorage to create some animated ghosties.",
   "featured": true,
   "id": "pac-manulfacturing-ghost-creator",
   "image": "ghost-creator.jpg",
